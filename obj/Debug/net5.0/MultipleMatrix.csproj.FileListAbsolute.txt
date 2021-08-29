@@ -1,0 +1,16 @@
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\bin\Debug\net5.0\MultipleMatrix.exe
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\bin\Debug\net5.0\MultipleMatrix.deps.json
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\bin\Debug\net5.0\MultipleMatrix.runtimeconfig.json
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\bin\Debug\net5.0\MultipleMatrix.runtimeconfig.dev.json
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\bin\Debug\net5.0\MultipleMatrix.dll
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\bin\Debug\net5.0\ref\MultipleMatrix.dll
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\bin\Debug\net5.0\MultipleMatrix.pdb
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\obj\Debug\net5.0\MultipleMatrix.csproj.AssemblyReference.cache
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\obj\Debug\net5.0\MultipleMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\obj\Debug\net5.0\MultipleMatrix.AssemblyInfoInputs.cache
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\obj\Debug\net5.0\MultipleMatrix.AssemblyInfo.cs
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\obj\Debug\net5.0\MultipleMatrix.csproj.CoreCompileInputs.cache
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\obj\Debug\net5.0\MultipleMatrix.dll
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\obj\Debug\net5.0\ref\MultipleMatrix.dll
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\obj\Debug\net5.0\MultipleMatrix.pdb
+C:\Users\CC-Student\source\repos\MultipleMatrix\MultipleMatrix\obj\Debug\net5.0\MultipleMatrix.genruntimeconfig.cache
